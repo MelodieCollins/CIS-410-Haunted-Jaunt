@@ -1,5 +1,7 @@
 # CIS-410-Haunted-Jaunt
 
+Note: This is a fork of https://github.com/kalyn-k/CIS-410-Haunted-Jaunt. Our team pair programmed this game.
+
 Authors: Brianna Vago, Melodie Collins, Kalyn Koyanagi
 
 Done at group meetings together on one computer.
